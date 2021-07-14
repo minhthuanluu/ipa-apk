@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/minhthuanluu/ipa-apk/blob/main/salesalary.ipa?raw=true</string>
+					<string>https://github.com/minhthuanluu/ipa-apk/blob/main/salesalary.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/minhthuanluu/ipa-apk/blob/main/salesalary-4CA020BC-EEEF-408B-A235-B4772DEBF72F.ipa</string>
+					<string>https://github.com/minhthuanluu/ipa-apk/blob/main/salesalary.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -308,7 +308,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/minhthuanluu/ipa-apk/blob/main/salesalary.ipa?raw=true</string>
+					<string>https://github.com/minhthuanluu/ipa-apk/blob/main/salesalary.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
